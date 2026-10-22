@@ -1,16 +1,14 @@
-## Hi there 👋
+## Neel Vaidya
 
-<!--
-**maestro-7neel/maestro-7neel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Third-Year CSE Student @ Mumbai University (VIT Mumbai)
 
-Here are some ideas to get you started:
+Mastering AI for making life easier and cortisol free. C, C++, Python, React, Next JS, LangChain, HuggingFace, Cloud Infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring deep learning and neural networks.
+
+###  Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-vaidya-5301b1359/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neel.djv@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-black?logo=codeforces&logoColor=white)](https://codeforces.com/profile/untamed_program)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/neel_vaidya)
